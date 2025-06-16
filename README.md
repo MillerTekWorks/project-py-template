@@ -43,25 +43,25 @@ pip install -r requirements.txt
 
 
 ## Usage
-# Explain how to run your code and use the project. Include code blocks with example commands.
+Explain how to run your code and use the project. Include code blocks with example commands.
 
 ## Bash
-# To run the main analysis script:
-# Example: python src/main.py
+To run the main analysis script:
+Example: python src/main.py
 
 ## Key Learnings
-# A reflective section. What were the main challenges? What new concepts or techniques did you learn? This is # very important for recruiters.
-# Examples:
-# Challenge: Ingesting and cleaning the sensor data proved difficult due to inconsistent timestamps.
-# Solution: I implemented a resampling algorithm using Pandas to normalize the data.
-# New Skill: Learned how to fine-tune a pre-trained CNN model using PyTorch.
+A reflective section. What were the main challenges? What new concepts or techniques did you learn? This is very important for recruiters.
+Examples:
+Challenge: Ingesting and cleaning the sensor data proved difficult due to inconsistent timestamps.
+Solution: I implemented a resampling algorithm using Pandas to normalize the data.
+New Skill: Learned how to fine-tune a pre-trained CNN model using PyTorch.
 
 ## Next Steps
-# What are the future plans for this project? What features would you add next?
-# Examples:
-# [ ] Implement a web interface using Streamlit.
-# [ ] Refactor the data processing pipeline for better performance.
-# [ ] Deploy the model as a cloud service.
-
+What are the future plans for this project? What features would you add next?
+Examples:
+[ ] Implement a web interface using Streamlit.
+[ ] Refactor the data processing pipeline for better performance.
+[ ] Deploy the model as a cloud service.
+<!-- end list -->
 
 
