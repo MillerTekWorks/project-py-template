@@ -41,7 +41,7 @@ source .venv/bin/activate
 # 3. Install the required dependencies
 pip install -r requirements.txt
 
-'''
+```
 ## Usage
 Explain how to run your code and use the project. Include code blocks with example commands.
 
